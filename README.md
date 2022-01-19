@@ -1,3 +1,4 @@
 # Desafio da DIO "Criando seu primeiro repositório no GitHub para compartilhar seu progresso"
-Desafio proposto pela DIO com o objetivo de reforçar os conhecimentos sobre versionamento de código com Git-GitHub.
+
+O objetivo desse projeto é reforçar os conhecimentos sobre versionamento de código com Git e GitHub, desafio proposto pelo expert Venilton FalvoJr da Digital Innovation One.
 
